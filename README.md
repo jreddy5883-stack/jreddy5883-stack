@@ -124,8 +124,7 @@ A Java-based desktop application designed to manage student records and attendan
 📧 Email: [jreddy5883@gmail.com](mailto:jreddy5883@gmail.com)
 
 🔗 LinkedIn:
-[www.linkedin.com/in/jyothi-nalladevireddigari-891943378](http://www.linkedin.com/in/jyothi-nalladevireddigari-891943378)
-
+[www.linkedin.com/in/jyothi-nalladevireddigari(http://www.linkedin.com/in/jyothi-nalladevireddigari
 🐙 GitHub:
 https://github.com/jreddy5883-stack
 
